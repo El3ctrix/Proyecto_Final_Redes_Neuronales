@@ -18,5 +18,5 @@ _A continuacion se muestran las herramientas que se utilizaron para llevar a cab
 
 _Todos los implicados en la realizacion del proyecto se muestran a continuacion:_
 * **González Durán Erick** - [El3ctrix](https://github.com/El3ctrix)
-* **Guevara Castro Miguel Andres* - [ReNeoAndy](https://github.com/ReNeoAndy)
+* **Guevara Castro Miguel Andres** - [ReNeoAndy](https://github.com/ReNeoAndy)
 * **Salcedo Ramos Carlos Uriel** - [CarlosSRamos](https://github.com/CarlosSRamos)
